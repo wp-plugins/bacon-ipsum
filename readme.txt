@@ -1,5 +1,5 @@
 === Bacon Ipsum ===
-Contributors: Chris McCoy
+Contributors: fris
 Tags: bacon, lorem, ipsum, dummy text
 Requires at least: 3.9
 Tested up to: 4.0
@@ -25,10 +25,10 @@ You can either use the Generator or Simply Add the [bacon_mockup] shortcode to a
 
 [bacon_mockup]
 
-width  : Width of the Bacon Image. Default is 300
-height  : Height of the Bacon Image. Default is 200
-alt : The alt tag for the image. Default is Yummy Bacon!
-class : css class for the image (incase you want to style it yourself). Default is baconthumb
+* width  : Width of the Bacon Image. Default is 300
+* height  : Height of the Bacon Image. Default is 200
+* alt : The alt tag for the image. Default is Yummy Bacon!
+* class : css class for the image (incase you want to style it yourself). Default is baconthumb
 
 = Bacon Love Widget =
 Show your love for Bacon Ipsum by adding a Widget to a widget area with a cool animated banner.
