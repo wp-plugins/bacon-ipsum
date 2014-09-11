@@ -1,0 +1,1 @@
+<img class='<?php echo implode(", ", (array)$atts['class']); ?>' width='<?php echo implode(", ", (array)$atts['width']); ?>' height='<?php echo implode(", ", (array)$atts['height']); ?>' src='http://baconmockup.com/<?php echo implode(", ", (array)$atts['width']); ?>/<?php echo implode(", ", (array)$atts['height']); ?>' alt='<?php echo implode(", ", (array)$atts['alt']); ?>'>
