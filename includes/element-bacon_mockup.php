@@ -1,6 +1,9 @@
 <?php
 
-$bacon_tag = $atts['tag'] ? $atts['tag'] : '';
+
+//$bacon_tag = $atts['tag'] ;
+
+$bacon_tag = ($atts['tag'] == "none") ? '' : $atts['tag'];
 
 ?>
 

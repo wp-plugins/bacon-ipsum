@@ -85,6 +85,9 @@ This plugin is an easy way to fill your posts with Dummy Text, and Do not want y
 
 == Changelog ==
 
+= 2.2 =
+* Fixed Bug When No Tag is Selected
+
 = 2.1 =
 * Added Tag Option to Bacon Mockup Shortcode
 
