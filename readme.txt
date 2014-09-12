@@ -29,6 +29,36 @@ You can either use the Generator or Simply Add the [bacon_mockup] shortcode to a
 * height  : Height of the Bacon Image. Default is 200
 * alt : The alt tag for the image. Default is Yummy Bacon!
 * class : css class for the image (incase you want to style it yourself). Default is baconthumb
+* tag : pick a custom image based on a tag as listed on the [Bacon Mockup Tag Page](http://baconmockup.com/attribution/)
+
+= Complete Tag List for Reference =
+
+* bacon
+* bacon-eggs
+* bacon2
+* beef
+* brisket
+* corned-beef
+* drumstick
+* drumstick2
+* family-style-bbq
+* flank-steak
+* hamburger
+* pastrami
+* pork-ribs
+* pulled-pork
+* ribeye
+* ribeye2
+* ribeyes-and-bacon
+* ribs-of-beef
+* salami
+* sausage
+* sausage2
+* sirloin
+* wing-rib
+* random
+
+See the List at [Bacon Mockup](http://baconmockup.com/attribution/)
 
 = Bacon Love Widget =
 Show your love for Bacon Ipsum by adding a Widget to a widget area with a cool animated banner.
