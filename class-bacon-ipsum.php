@@ -325,7 +325,7 @@ class Bacon_Ipsum {
 		global $post;
 		if(!empty($post)){
 			echo "<a id=\"bacon-ipsum-shortcodeinsert\" title=\"".__('Bacon Ipsum Shortcode Builder','bacon-ipsum')."\" style=\"padding-left: 0.4em;\" class=\"button bacon-ipsum-editor-button\" href=\"#inst\">\n";
-			echo "	<img src=\"". self::get_url( __FILE__ ) . "assets/images/icon.png\" alt=\"".__("Insert Shortcode","bacon-ipsum")."\" style=\"padding:0 2px 1px;\" /> ".__('Bacon Ipsum', 'bacon-ipsum')."\n";
+			echo "	<img src=\"". self::get_url( __FILE__ ) . "assets/images/icon.png\" alt=\"".__("Generate Bacon","bacon-ipsum")."\" style=\"padding:0 2px 1px;\" /> ".__('Bacon Ipsum', 'bacon-ipsum')."\n";
 			echo "</a>\n";
 		}
 	}
@@ -497,7 +497,7 @@ class Bacon_Ipsum {
 		echo "					</div>\r\n";
 		echo "				</div>\r\n";
 		echo "				<div class=\"bacon-ipsum-modal-footer\">\r\n";
-		echo "					<button class=\"button button-primary button-large\" id=\"bacon-ipsum-insert-shortcode\">".__("Insert Shortcode","bacon-ipsum")."</button>\r\n";
+		echo "					<button class=\"button button-primary button-large\" id=\"bacon-ipsum-insert-shortcode\">".__("Generate Bacon","bacon-ipsum")."</button>\r\n";
 		echo "				</div>\r\n";
 		echo "			</div>\r\n";
 		echo "		</div>\r\n";
