@@ -10,7 +10,7 @@
  * Plugin Name: Bacon Ipsum
  * Plugin URI:  http://github.com/chrismccoy/bacon-ipsum
  * Description: Bacon Ipsum Generator
- * Version:     2.0
+ * Version:     2.1
  * Author:      Chris McCoy
  * Author URI:  http://github.com/chrismccoy
  * Text Domain: bacon-ipsum

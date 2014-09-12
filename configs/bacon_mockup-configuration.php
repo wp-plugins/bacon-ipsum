@@ -40,6 +40,12 @@ $group = array(
 			'type'		=>	'smalltextfield',
 			'default'	=> 	'baconthumb',
 		),
+		'tag'	=>	array(
+			'label'		=> 	__('Tag','bacon-ipsum'),
+			'caption'	=>	__('Pick a Custom Image to Use','bacon-ipsum'),
+			'type'		=>	'dropdown',
+			'default'	=> 	'bacon||Bacon,bacon-eggs||Bacon and Eggs,bacon2||Bacon 2,beef||Beef,brisket||Brisket,corned-beef||Corned Beef,drumstick||Drumstick,drumstick2||Drum Stick 2,family-style-bbq||Family Style BBQ,flank-steak||Flank Steak,hamburger||Hamburger,pastrami||Pastrami,pork-ribs||Pork Ribs,pulled-pork||Pulled Pork,ribeye||Rib Eye,ribeye2||Rib Eye 2,ribeyes-and-bacon||Ribeye and Bacon,ribs-of-beef||Ribs of Beef,salami||Salami,sausage||Sausage,sausage2||Sausage 2,sirloin||Sirloin,wing-rib||Wing Rib,random||Random',
+		),
 	),
 	'multiple'	=> false,
 );

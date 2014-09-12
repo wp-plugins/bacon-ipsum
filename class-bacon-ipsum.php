@@ -19,7 +19,7 @@ class Bacon_Ipsum {
 	/**
 	 * @var     string
 	 */
-	const VERSION = '2.0';
+	const VERSION = '2.1';
 	/**
 	 * @var      string
 	 */
