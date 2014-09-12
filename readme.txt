@@ -84,6 +84,7 @@ This plugin is an easy way to fill your posts with Dummy Text, and Do not want y
 6. Bacon Ipsum and Bacon Mockup Post Box Example
 
 == Changelog ==
+
 = 2.1 =
 * Added Tag Option to Bacon Mockup Shortcode
 
