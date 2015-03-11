@@ -1,5 +1,5 @@
 === Bacon Ipsum ===
-Contributors: fris
+Contributors: fristopher
 Tags: bacon, lorem, ipsum, dummy text
 Requires at least: 3.9
 Tested up to: 4.0
