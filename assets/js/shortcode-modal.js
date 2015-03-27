@@ -137,7 +137,7 @@ function bacon_ipsum_sendCode(){
 
 		}, function(data) {
                		for (var i = 0; i < data.length; i++)
-				window.send_to_editor('<p>'+data[i]+ '</p>');
+				window.send_to_editor("<p>"  +data[i]+  "</p>\n\n");
 		});
 	}
 
